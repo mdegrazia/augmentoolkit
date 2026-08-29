@@ -31,7 +31,7 @@ python-docx
 # Machine Learning & AI
 # torch
 transformers
-datasets==2.15.0
+huggingface_hub>=0.34.0
 # trl
 # vllm
 # unsloth
@@ -57,3 +57,4 @@ torch
 peft
 discord.py
 hf_transfer
+cohere
