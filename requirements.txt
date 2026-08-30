@@ -58,3 +58,4 @@ peft
 discord.py
 hf_transfer
 cohere
+datasets>=2.20.0
